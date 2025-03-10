@@ -1,0 +1,14 @@
+/home/wavavaw/Projects/C#/ice2/ice1/bin/Debug/net9.0/ice1
+/home/wavavaw/Projects/C#/ice2/ice1/bin/Debug/net9.0/ice1.deps.json
+/home/wavavaw/Projects/C#/ice2/ice1/bin/Debug/net9.0/ice1.runtimeconfig.json
+/home/wavavaw/Projects/C#/ice2/ice1/bin/Debug/net9.0/ice1.dll
+/home/wavavaw/Projects/C#/ice2/ice1/bin/Debug/net9.0/ice1.pdb
+/home/wavavaw/Projects/C#/ice2/ice1/obj/Debug/net9.0/ice1.GeneratedMSBuildEditorConfig.editorconfig
+/home/wavavaw/Projects/C#/ice2/ice1/obj/Debug/net9.0/ice1.AssemblyInfoInputs.cache
+/home/wavavaw/Projects/C#/ice2/ice1/obj/Debug/net9.0/ice1.AssemblyInfo.cs
+/home/wavavaw/Projects/C#/ice2/ice1/obj/Debug/net9.0/ice1.csproj.CoreCompileInputs.cache
+/home/wavavaw/Projects/C#/ice2/ice1/obj/Debug/net9.0/ice1.dll
+/home/wavavaw/Projects/C#/ice2/ice1/obj/Debug/net9.0/refint/ice1.dll
+/home/wavavaw/Projects/C#/ice2/ice1/obj/Debug/net9.0/ice1.pdb
+/home/wavavaw/Projects/C#/ice2/ice1/obj/Debug/net9.0/ice1.genruntimeconfig.cache
+/home/wavavaw/Projects/C#/ice2/ice1/obj/Debug/net9.0/ref/ice1.dll
